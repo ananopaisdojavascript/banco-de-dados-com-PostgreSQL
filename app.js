@@ -33,6 +33,7 @@ app.use("/client", ClientsRouter)
 app.use("/product", ProductsRouter)
 app.use("/supplier", SuppliersRouter)
 app.use("/sale", SalesRouter)
+
 app.listen(port, () => {
     console.log(`Servidor rodando na porta ${port}`)
 })
