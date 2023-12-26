@@ -202,3 +202,72 @@
 2023-12-26T17:19:27.639Z [store-api] info : Servidor rodando na porta 3000
 2023-12-26T17:19:59.935Z [store-api] error : PUT  - O id do fornecedor informado não existe
 2023-12-26T17:20:09.596Z [store-api] info : PUT /product - {"product_id":3,"supplier_id":1,"name":"Internet Vapt-vupt","description":"Internet de alta velocidade","value":"150","stock":1000}
+2023-12-26T17:37:43.133Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T17:41:21.034Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T17:42:16.006Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T17:44:13.831Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T17:45:17.502Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T17:48:33.381Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T17:54:02.299Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T17:59:29.151Z [store-api] info : POST /sale - {"sale_id":1,"client_id":1,"product_id":1,"value":"5000","date":"2000-01-01T02:00:00.000Z"}
+2023-12-26T18:02:35.828Z [store-api] info : POST /sale - {"sale_id":2,"client_id":2,"product_id":1,"value":"100000","date":"2010-01-01T02:00:00.000Z"}
+2023-12-26T18:02:51.648Z [store-api] info : GET /sale
+2023-12-26T18:03:08.667Z [store-api] info : GET /sale/:id
+2023-12-26T18:03:41.152Z [store-api] info : PUT /sale - {"sale_id":2,"client_id":2,"product_id":1,"value":"150000","date":"2010-01-01T02:00:00.000Z"}
+2023-12-26T18:05:40.217Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:09:14.611Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:09:32.122Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:10:41.562Z [store-api] error : POST  - O id (do cliente ou do produto) informado não existe
+2023-12-26T18:10:59.079Z [store-api] error : POST  - O id (do cliente ou do produto) informado não existe
+2023-12-26T18:11:02.708Z [store-api] error : POST  - O id (do cliente ou do produto) informado não existe
+2023-12-26T18:11:15.037Z [store-api] info : POST /sale - {"sale_id":3,"client_id":2,"product_id":1,"value":"150000","date":"1999-01-02T02:00:00.000Z"}
+2023-12-26T18:16:15.687Z [store-api] info : GET /client
+2023-12-26T18:16:28.782Z [store-api] info : GET /client/:id
+2023-12-26T18:20:35.475Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:21:02.799Z [store-api] error : PUT  - O id (do cliente ou do produto) informado não existe
+2023-12-26T18:21:09.683Z [store-api] error : PUT  - O id (do cliente ou do produto) informado não existe
+2023-12-26T18:21:15.389Z [store-api] error : PUT  - O id (do cliente ou do produto) informado não existe
+2023-12-26T18:29:52.559Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:30:38.621Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:31:09.803Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:33:30.677Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:35:55.764Z [store-api] error : POST  - O id (do cliente ou do produto) informado não existe
+2023-12-26T18:39:35.349Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:40:04.363Z [store-api] info : POST /sale - {"sale_id":4,"client_id":2,"product_id":1,"value":"2000","date":"1999-01-02T02:00:00.000Z"}
+2023-12-26T18:40:44.114Z [store-api] info : GET /product/:id
+2023-12-26T18:43:31.332Z [store-api] info : POST /product - {"product_id":4,"supplier_id":1,"name":"Cabo de internet","description":"Cabo para internet de alta velocidade","value":"30","stock":2}
+2023-12-26T18:45:11.341Z [store-api] info : POST /sale - {"sale_id":5,"client_id":2,"product_id":4,"value":"30","date":"2000-01-02T02:00:00.000Z"}
+2023-12-26T18:45:23.000Z [store-api] info : GET /product/:id
+2023-12-26T18:45:29.761Z [store-api] info : GET /product/:id
+2023-12-26T18:46:14.679Z [store-api] info : POST /sale - {"sale_id":6,"client_id":1,"product_id":4,"value":"30","date":"2000-03-02T03:00:00.000Z"}
+2023-12-26T18:46:20.075Z [store-api] info : GET /product/:id
+2023-12-26T18:46:50.703Z [store-api] error : POST  - Não tem estoque do produto informado.
+2023-12-26T18:52:41.080Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:53:38.634Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:53:57.185Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:54:09.657Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:54:30.969Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T18:56:00.911Z [store-api] info : DELETE /sale/:id - 6
+2023-12-26T18:56:09.465Z [store-api] info : GET /product/:id
+2023-12-26T18:56:39.120Z [store-api] error : DELETE  - O id da venda informada não existe.
+2023-12-26T18:59:49.535Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T19:00:32.874Z [store-api] info : GET /sale
+2023-12-26T19:01:40.527Z [store-api] error : PUT  - O id (do cliente ou do produto) informado não existe
+2023-12-26T19:02:14.261Z [store-api] info : PUT /sale - {"sale_id":2,"client_id":2,"product_id":1,"value":"150000","date":"2010-01-01T02:00:00.000Z"}
+2023-12-26T19:08:50.625Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T19:09:11.435Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T19:10:52.546Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T19:11:20.346Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T19:11:45.143Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T19:12:00.455Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T19:13:20.847Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T19:13:41.217Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T19:13:47.963Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T19:14:01.635Z [store-api] info : GET /sale
+2023-12-26T19:14:38.371Z [store-api] info : GET /sale
+2023-12-26T19:14:43.772Z [store-api] info : GET /sale
+2023-12-26T19:15:08.082Z [store-api] info : GET /sale
+2023-12-26T19:15:14.155Z [store-api] info : GET /sale
+2023-12-26T19:15:21.074Z [store-api] info : GET /sale
+2023-12-26T19:15:34.146Z [store-api] info : GET /sale
+2023-12-26T19:15:49.313Z [store-api] info : GET /sale
