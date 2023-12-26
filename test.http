@@ -30,3 +30,42 @@ GET http://localhost:3000/client
 #####
 
 DELETE http://localhost:3000/client/3
+
+####
+
+POST http://localhost:3000/supplier
+Content-Type: application/json
+
+{
+    "name": "Francisco e Danilo Telecom Ltda",
+    "cnpj": "42.136.228/0001-53",
+    "phone": "(14) 3691-0533",
+    "email": "cobranca@franciscoedanilotelecomltda.com.br",
+    "address": "Rua Arlindo Jotta, 635"
+}
+
+#####
+
+GET http://localhost:3000/supplier
+
+#####
+
+GET http://localhost:3000/supplier/1
+
+####
+
+PUT http://localhost:3000/supplier
+Content-Type: application/json
+
+{
+    "supplier_id": 3,
+    "name": "Francisco e Danilo Telecomunicações Ltda",
+    "cnpj": "42.136.228/0001-53",
+    "phone": "(14) 3691-0533",
+    "email": "cobranca@franciscoedanilotelecomltda.com.br",
+    "address": "Rua Arlindo Jotta, 635"
+}
+
+#####
+
+DELETE http://localhost:3000/supplier/3
