@@ -69,3 +69,21 @@ Content-Type: application/json
 #####
 
 DELETE http://localhost:3000/supplier/3
+
+#####
+
+PUT http://localhost:3000/product
+Content-Type: application/json
+
+{
+    "product_id": 3,
+    "name": "Internet Vapt-vupt",
+    "description": "Internet de alta velocidade",
+    "value": 150,
+    "stock": 1000,
+    "supplier_id": 1
+}
+
+#####
+
+GET http://localhost:3000/product

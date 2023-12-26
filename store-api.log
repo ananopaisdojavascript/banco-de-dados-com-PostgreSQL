@@ -154,3 +154,51 @@
 2023-12-26T13:50:40.582Z [store-api] info : Servidor rodando na porta 3000
 2023-12-26T13:51:12.991Z [store-api] info : DELETE /supplier/:id - 3
 2023-12-26T13:51:18.479Z [store-api] info : GET /supplier
+2023-12-26T14:27:20.913Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:29:18.613Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:30:17.368Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:32:19.395Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:33:48.874Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:36:56.920Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:37:27.872Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:39:07.310Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:41:22.893Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:48:55.251Z [store-api] info : PUT /supplier - undefined
+2023-12-26T14:49:04.421Z [store-api] info : GET /client
+2023-12-26T14:50:20.687Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:50:37.219Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:50:52.737Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:51:12.621Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T14:52:47.728Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:30:11.190Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:31:07.435Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:31:53.795Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:32:01.845Z [store-api] error : POST  - O preenchimento dos campos de nome, descrição, valor, estoque e id do fornecedor é obrigatório.
+2023-12-26T16:36:25.908Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:37:50.845Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:40:19.721Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:40:45.023Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:41:05.174Z [store-api] error : POST  - column "cpf" of relation "products" does not exist
+2023-12-26T16:41:52.722Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:41:57.022Z [store-api] info : POST /product - {"product_id":1,"supplier_id":1,"name":"Telefone sem fio","description":"Telefone sem fio muito prático","value":"200","stock":100}
+2023-12-26T16:42:15.300Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:42:19.748Z [store-api] info : POST /product - {"product_id":2,"supplier_id":1,"name":"Telefone sem fio","description":"Telefone sem fio muito prático","value":"200","stock":100}
+2023-12-26T16:46:23.892Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:48:07.683Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:49:28.405Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T16:49:54.353Z [store-api] info : GET /product
+2023-12-26T16:55:20.668Z [store-api] info : GET /product/:id
+2023-12-26T17:03:43.838Z [store-api] info : GET /product
+2023-12-26T17:04:40.528Z [store-api] info : POST /product - {"product_id":3,"supplier_id":1,"name":"Internet Vapt-vupt","description":"Internet de alta velocidade","value":"500","stock":1000}
+2023-12-26T17:04:44.823Z [store-api] info : GET /product
+2023-12-26T17:05:48.704Z [store-api] info : PUT /product - {"product_id":3,"supplier_id":1,"name":"Internet Vapt-vupt","description":"Internet de alta velocidade","value":"200","stock":1000}
+2023-12-26T17:05:52.857Z [store-api] info : GET /product
+2023-12-26T17:09:37.176Z [store-api] error : PUT  - insert or update on table "products" violates foreign key constraint "fk_suppliers"
+2023-12-26T17:13:06.088Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T17:15:57.047Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T17:17:40.408Z [store-api] error : POST  - O id do fornecedor informado não existe
+2023-12-26T17:17:59.468Z [store-api] error : POST  - O id do fornecedor informado não existe
+2023-12-26T17:19:22.780Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T17:19:27.639Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T17:19:59.935Z [store-api] error : PUT  - O id do fornecedor informado não existe
+2023-12-26T17:20:09.596Z [store-api] info : PUT /product - {"product_id":3,"supplier_id":1,"name":"Internet Vapt-vupt","description":"Internet de alta velocidade","value":"150","stock":1000}

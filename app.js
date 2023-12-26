@@ -3,6 +3,7 @@ import cors from "cors"
 import winston from "winston"
 import ClientRouter from "./routes/client.router.js"
 import SupplierRouter from "./routes/supplier.router.js"
+import ProductRouter from "./routes/product.router.js"
 
 const app = express()
 
@@ -29,6 +30,7 @@ app.use(express.json())
 app.use(cors())
 app.use("/client", ClientRouter)
 app.use("/supplier", SupplierRouter)
+app.use("/product", ProductRouter)
 app.use((error, request, response, _next) => {
   logger.error(`${request.method} ${request.baseUrl} - ${error.message}`);
   response.status(400).send({
