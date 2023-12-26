@@ -1,0 +1,95 @@
+2023-12-25T13:55:47.374Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T13:58:42.803Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T13:59:50.806Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T14:33:23.109Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T14:38:27.149Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T14:40:11.595Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T14:43:10.549Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T14:45:54.733Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T14:46:05.021Z [store-api] error : POST  - O preenchimento dos campos de nome, CPF, telefone, e-mail e endereço é obrigatório.
+2023-12-25T14:48:02.080Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T14:48:53.921Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T14:49:45.825Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T14:50:00.913Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T14:50:15.736Z [store-api] error : POST  - O preenchimento dos campos de nome, CPF, telefone, e-mail e endereço é obrigatório.
+2023-12-25T14:51:04.257Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T14:51:10.447Z [store-api] error : POST  - O preenchimento dos campos de nome, CPF, telefone, e-mail e endereço é obrigatório.
+2023-12-25T14:58:41.824Z [store-api] error : POST  - O preenchimento dos campos de nome, CPF, telefone, e-mail e endereço é obrigatório.
+2023-12-25T15:00:23.359Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T15:01:22.322Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T15:02:13.599Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T15:02:17.894Z [store-api] error : POST  - O preenchimento dos campos de nome, CPF, telefone, e-mail e endereço é obrigatório.
+2023-12-25T15:04:05.179Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T15:04:54.022Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T16:15:24.784Z [store-api] error : POST  - O preenchimento dos campos de nome, CPF, telefone, e-mail e endereço é obrigatório.
+2023-12-25T16:38:24.403Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T16:38:29.409Z [store-api] error : POST  - O preenchimento dos campos de nome, CPF, telefone, e-mail e endereço é obrigatório.
+2023-12-25T16:40:29.809Z [store-api] error : POST  - O preenchimento dos campos de nome, CPF, telefone, e-mail e endereço é obrigatório.
+2023-12-25T16:47:08.032Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T16:49:41.683Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T16:53:48.335Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T16:58:47.284Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T17:01:42.130Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T17:02:27.908Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T17:04:21.599Z [store-api] info : POST /client - {"name":"João","cpf":"111.111.111-11","phone":"1234-5678","email":"joao@email.com","address":"Rua X, 20"}
+2023-12-25T17:09:20.141Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T17:09:39.331Z [store-api] info : POST /client - {"name":"João","cpf":"111.111.111-11","phone":"1234-5678","email":"joao@email.com","address":"Rua X, 20"}
+2023-12-25T19:12:47.471Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:14:33.310Z [store-api] info : POST /client - {"name":"Paulo","cpf":"123.123.123-12","phone":"3333-5678","email":"paulo@email.com","address":"Rua S, 200"}
+2023-12-25T19:21:13.527Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:23:54.145Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:24:16.154Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:25:04.263Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:26:28.544Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:27:05.851Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:30:07.119Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:30:16.584Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:32:27.389Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:42:29.879Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:42:35.242Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:43:13.362Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:44:04.173Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:44:26.976Z [store-api] error : POST  - Unexpected token G in JSON at position 149
+2023-12-25T19:47:27.402Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:47:50.716Z [store-api] info : GET /client
+2023-12-25T19:48:13.760Z [store-api] info : GET /client
+2023-12-25T19:48:34.850Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:48:40.767Z [store-api] info : GET /client
+2023-12-25T19:58:31.902Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T19:59:12.791Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:01:08.636Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:01:16.409Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:02:55.753Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:03:24.940Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:03:52.800Z [store-api] info : GET /client/:id
+2023-12-25T20:04:13.267Z [store-api] info : GET /client/:id
+2023-12-25T20:11:34.456Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:13:34.457Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:14:53.732Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:15:46.867Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:16:00.177Z [store-api] info : GET /client/:id
+2023-12-25T20:16:25.505Z [store-api] error : DELETE  - id is not defined
+2023-12-25T20:17:53.400Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:18:07.264Z [store-api] error : DELETE  - id is not defined
+2023-12-25T20:19:38.087Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:19:50.177Z [store-api] info : DELETE /client/:id - 3
+2023-12-25T20:21:46.607Z [store-api] info : GET /client
+2023-12-25T20:27:58.164Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:29:08.143Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:31:56.781Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:33:10.902Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:33:26.893Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:35:10.789Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:35:16.696Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:36:11.425Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:36:51.330Z [store-api] info : GET /client
+2023-12-25T20:38:42.212Z [store-api] info : PUT /client - {"client_id":1,"name":"João Silva","cpf":"111.111.111-11","phone":"1234-5678","email":"joao@email.com","address":"Rua X, 20"}
+2023-12-25T20:38:47.519Z [store-api] info : GET /client
+2023-12-25T20:41:59.532Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:44:21.668Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:45:03.364Z [store-api] info : Servidor rodando na porta 3000
+2023-12-25T20:47:26.330Z [store-api] info : POST /client - {"client_id":4,"name":"Paulo Costa","cpf":"222.222.222-22","phone":"2222-5678","email":"paulocosta@email.com","address":"Rua das Roseiras, 10"}
+2023-12-25T20:49:32.454Z [store-api] info : PUT /client - {"client_id":1,"name":"João da Silva","cpf":"111.111.111-11","phone":"1234-5678","email":"joao@email.com","address":"Rua X, 20"}
+2023-12-25T20:49:37.436Z [store-api] info : GET /client
+2023-12-26T12:00:08.135Z [store-api] info : Servidor rodando na porta 3000
+2023-12-26T12:00:13.914Z [store-api] info : GET /client

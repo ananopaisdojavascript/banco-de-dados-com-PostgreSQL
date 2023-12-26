@@ -3,13 +3,14 @@ import ClientController from "../controllers/client.controller.js"
 
 const router = express.Router()
 
-router.use((error, request, response, _next) => {
-    logger.error(`${request.method} ${request.baseUrl} - ${error.message}`)
-    response.status(400).send({
-        error: error.message
-    })
-})
-
 router.post("/", ClientController.createClient)
+
+router.get("/", ClientController.getClients)
+
+router.get("/:id", ClientController.getClient)
+
+router.put("/", ClientController.updateClient)
+
+router.delete("/:id", ClientController.deleteClient)
 
 export default router

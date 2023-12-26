@@ -1,4 +1,32 @@
 POST http://localhost:3000/client
-content-type: application/json
+Content-Type: application/json
 
-{}
+{
+    "name": "Paulo Costa",
+    "cpf": "222.222.222-22",
+    "phone": "2222-5678",
+    "email": "paulocosta@email.com",
+    "address": "Rua das Roseiras, 10"
+}
+
+#######
+
+PUT  http://localhost:3000/client
+Content-Type: application/json
+
+{
+    "client_id": 1,
+    "name": "João da Silva",
+    "cpf": "111.111.111-11",
+    "phone": "1234-5678",
+    "email": "joao@email.com",
+    "address": "Rua X, 20"
+}
+
+#####
+
+GET http://localhost:3000/client
+
+#####
+
+DELETE http://localhost:3000/client/3
